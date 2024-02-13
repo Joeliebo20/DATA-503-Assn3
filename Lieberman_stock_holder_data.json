@@ -1,0 +1,672 @@
+[
+  {
+    "stock_name": "Tesla, Inc. (TSLA)",
+    "% of Shares Held by All Insider": "13.00%",
+    "% of Shares Held by Institutions": "44.81%",
+    "% of Float Held by Institutions": "51.50%",
+    "Number of Institutions Holding Shares": "3,773",
+    "Vanguard Group Inc": {
+      "Shares": "225,940,011",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "7.09%",
+      "Value": "41,324,426,632"
+    },
+    "Blackrock Inc.": {
+      "Shares": "186,653,186",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "5.86%",
+      "Value": "34,138,866,580"
+    },
+    "State Street Corporation": {
+      "Shares": "104,861,369",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "3.29%",
+      "Value": "19,179,143,750"
+    },
+    "Geode Capital Management, LLC": {
+      "Shares": "53,875,703",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.69%",
+      "Value": "9,853,865,749"
+    },
+    "Capital World Investors": {
+      "Shares": "41,103,054",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.29%",
+      "Value": "7,517,748,325"
+    },
+    "Norges Bank Investment Management": {
+      "Shares": "31,570,978",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "0.99%",
+      "Value": "5,774,331,683"
+    },
+    "Morgan Stanley": {
+      "Shares": "30,160,747",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "0.95%",
+      "Value": "5,516,400,442"
+    },
+    "FMR, LLC": {
+      "Shares": "29,040,734",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "0.91%",
+      "Value": "5,311,550,071"
+    },
+    "JP Morgan Chase & Company": {
+      "Shares": "27,826,540",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "0.87%",
+      "Value": "5,089,473,996"
+    },
+    "Northern Trust Corporation": {
+      "Shares": "27,542,824",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "0.86%",
+      "Value": "5,037,582,341"
+    }
+  },
+  {
+    "stock_name": "Apple Inc. (AAPL)",
+    "% of Shares Held by All Insider": "6.00%",
+    "% of Shares Held by Institutions": "56.10%",
+    "% of Float Held by Institutions": "59.68%",
+    "Number of Institutions Holding Shares": "6,024",
+    "Vanguard Group Inc": {
+      "Shares": "1,299,997,133",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "8.42%",
+      "Value": "238,837,815,554"
+    },
+    "Blackrock Inc.": {
+      "Shares": "1,031,407,553",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "6.68%",
+      "Value": "189,492,053,983"
+    },
+    "Berkshire Hathaway, Inc": {
+      "Shares": "915,560,382",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "5.93%",
+      "Value": "168,208,402,999"
+    },
+    "State Street Corporation": {
+      "Shares": "569,291,690",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "3.69%",
+      "Value": "104,591,295,012"
+    },
+    "FMR, LLC": {
+      "Shares": "298,321,726",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.93%",
+      "Value": "54,808,205,004"
+    },
+    "Geode Capital Management, LLC": {
+      "Shares": "296,103,070",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.92%",
+      "Value": "54,400,589,526"
+    },
+    "Price (T.Rowe) Associates Inc": {
+      "Shares": "216,307,878",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.40%",
+      "Value": "39,740,473,080"
+    },
+    "Morgan Stanley": {
+      "Shares": "206,732,960",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.34%",
+      "Value": "37,981,351,893"
+    },
+    "Norges Bank Investment Management": {
+      "Shares": "176,141,203",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "1.14%",
+      "Value": "32,360,979,178"
+    },
+    "Northern Trust Corporation": {
+      "Shares": "168,874,976",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.09%",
+      "Value": "31,026,014,862"
+    }
+  },
+  {
+    "stock_name": "Netflix, Inc. (NFLX)",
+    "% of Shares Held by All Insider": "1.38%",
+    "% of Shares Held by Institutions": "85.10%",
+    "% of Float Held by Institutions": "86.30%",
+    "Number of Institutions Holding Shares": "2,888",
+    "Vanguard Group Inc": {
+      "Shares": "36,260,284",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "8.38%",
+      "Value": "20,000,448,068"
+    },
+    "Blackrock Inc.": {
+      "Shares": "29,970,188",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "6.93%",
+      "Value": "16,530,956,809"
+    },
+    "FMR, LLC": {
+      "Shares": "22,384,548",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "5.17%",
+      "Value": "12,346,869,368"
+    },
+    "State Street Corporation": {
+      "Shares": "16,277,017",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "3.76%",
+      "Value": "8,978,077,315"
+    },
+    "Price (T.Rowe) Associates Inc": {
+      "Shares": "12,330,949",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.85%",
+      "Value": "6,801,505,060"
+    },
+    "Capital World Investors": {
+      "Shares": "11,666,316",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.70%",
+      "Value": "6,434,906,778"
+    },
+    "Capital Research Global Investors": {
+      "Shares": "10,661,467",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.46%",
+      "Value": "5,880,652,150"
+    },
+    "JP Morgan Chase & Company": {
+      "Shares": "9,288,971",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "2.15%",
+      "Value": "5,123,610,782"
+    },
+    "Capital International Investors": {
+      "Shares": "9,064,605",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.09%",
+      "Value": "4,999,854,980"
+    },
+    "Geode Capital Management, LLC": {
+      "Shares": "8,538,227",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.97%",
+      "Value": "4,709,515,394"
+    }
+  },
+  {
+    "stock_name": "Amazon.com, Inc. (AMZN)",
+    "% of Shares Held by All Insider": "9.56%",
+    "% of Shares Held by Institutions": "61.61%",
+    "% of Float Held by Institutions": "68.12%",
+    "Number of Institutions Holding Shares": "5,809",
+    "Vanguard Group Inc": {
+      "Shares": "757,951,795",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "7.30%",
+      "Value": "127,411,701,365"
+    },
+    "Blackrock Inc.": {
+      "Shares": "613,380,364",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "5.91%",
+      "Value": "103,109,242,932"
+    },
+    "State Street Corporation": {
+      "Shares": "332,449,318",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "3.20%",
+      "Value": "55,884,732,384"
+    },
+    "FMR, LLC": {
+      "Shares": "302,101,441",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.91%",
+      "Value": "50,783,254,075"
+    },
+    "Price (T.Rowe) Associates Inc": {
+      "Shares": "207,780,299",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.00%",
+      "Value": "34,927,869,530"
+    },
+    "Geode Capital Management, LLC": {
+      "Shares": "176,207,050",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.70%",
+      "Value": "29,620,406,180"
+    },
+    "JP Morgan Chase & Company": {
+      "Shares": "164,160,066",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "1.58%",
+      "Value": "27,595,308,096"
+    },
+    "Morgan Stanley": {
+      "Shares": "149,541,288",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.44%",
+      "Value": "25,137,891,425"
+    },
+    "Norges Bank Investment Management": {
+      "Shares": "116,496,979",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "1.12%",
+      "Value": "19,583,142,880"
+    },
+    "Northern Trust Corporation": {
+      "Shares": "92,329,336",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "0.89%",
+      "Value": "15,520,561,945"
+    }
+  },
+  {
+    "stock_name": "Alphabet Inc. (GOOGL)",
+    "% of Shares Held by All Insider": "0.28%",
+    "% of Shares Held by Institutions": "80.22%",
+    "% of Float Held by Institutions": "80.45%",
+    "Number of Institutions Holding Shares": "5,469",
+    "Vanguard Group Inc": {
+      "Shares": "487,435,495",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "8.24%",
+      "Value": "70,229,707,012"
+    },
+    "Blackrock Inc.": {
+      "Shares": "410,944,231",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "6.94%",
+      "Value": "59,208,845,554"
+    },
+    "FMR, LLC": {
+      "Shares": "227,317,469",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "3.84%",
+      "Value": "32,751,901,349"
+    },
+    "State Street Corporation": {
+      "Shares": "212,450,743",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "3.59%",
+      "Value": "30,609,903,440"
+    },
+    "Geode Capital Management, LLC": {
+      "Shares": "123,403,812",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.09%",
+      "Value": "17,780,021,458"
+    },
+    "Price (T.Rowe) Associates Inc": {
+      "Shares": "113,724,357",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.92%",
+      "Value": "16,385,405,564"
+    },
+    "Morgan Stanley": {
+      "Shares": "111,257,729",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.88%",
+      "Value": "16,030,013,798"
+    },
+    "Norges Bank Investment Management": {
+      "Shares": "110,544,181",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "1.87%",
+      "Value": "15,927,205,800"
+    },
+    "Wellington Management Group, LLP": {
+      "Shares": "77,725,746",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "1.31%",
+      "Value": "11,198,725,626"
+    },
+    "Northern Trust Corporation": {
+      "Shares": "67,684,197",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.14%",
+      "Value": "9,751,939,227"
+    }
+  },
+  {
+    "stock_name": "PayPal Holdings, Inc. (PYPL)",
+    "% of Shares Held by All Insider": "0.22%",
+    "% of Shares Held by Institutions": "71.11%",
+    "% of Float Held by Institutions": "71.27%",
+    "Number of Institutions Holding Shares": "2,537",
+    "Vanguard Group Inc": {
+      "Shares": "91,219,038",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "8.51%",
+      "Value": "5,313,207,966"
+    },
+    "Blackrock Inc.": {
+      "Shares": "71,704,127",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "6.69%",
+      "Value": "4,176,528,794"
+    },
+    "State Street Corporation": {
+      "Shares": "43,975,005",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "4.10%",
+      "Value": "2,561,398,936"
+    },
+    "Comprehensive Financial Management, LLC": {
+      "Shares": "29,551,618",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.76%",
+      "Value": "1,721,284,236"
+    },
+    "Polen Capital Management, LLC": {
+      "Shares": "21,685,665",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.02%",
+      "Value": "1,263,118,429"
+    },
+    "Geode Capital Management, LLC": {
+      "Shares": "21,168,228",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.98%",
+      "Value": "1,232,979,431"
+    },
+    "Morgan Stanley": {
+      "Shares": "20,069,337",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.87%",
+      "Value": "1,168,972,657"
+    },
+    "Norges Bank Investment Management": {
+      "Shares": "12,205,841",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "1.14%",
+      "Value": "710,949,962"
+    },
+    "Northern Trust Corporation": {
+      "Shares": "11,767,054",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.10%",
+      "Value": "685,392,067"
+    },
+    "Nuveen Asset Management, LLC": {
+      "Shares": "10,565,361",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "0.99%",
+      "Value": "615,397,415"
+    }
+  },
+  {
+    "stock_name": "The Walt Disney Company (DIS)",
+    "% of Shares Held by All Insider": "0.06%",
+    "% of Shares Held by Institutions": "65.14%",
+    "% of Float Held by Institutions": "65.17%",
+    "Number of Institutions Holding Shares": "3,739",
+    "Vanguard Group Inc": {
+      "Shares": "149,887,754",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "8.17%",
+      "Value": "16,456,925,675"
+    },
+    "Blackrock Inc.": {
+      "Shares": "118,691,454",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "6.47%",
+      "Value": "13,031,727,974"
+    },
+    "State Street Corporation": {
+      "Shares": "72,607,200",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "3.96%",
+      "Value": "7,971,907,391"
+    },
+    "Morgan Stanley": {
+      "Shares": "44,318,444",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.42%",
+      "Value": "4,865,943,477"
+    },
+    "Geode Capital Management, LLC": {
+      "Shares": "33,935,205",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.85%",
+      "Value": "3,725,915,770"
+    },
+    "State Farm Mutual Automobile Insurance Co": {
+      "Shares": "33,613,312",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.83%",
+      "Value": "3,690,573,529"
+    },
+    "Trian Fund Management, LP": {
+      "Shares": "32,868,307",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.79%",
+      "Value": "3,608,775,706"
+    },
+    "Northern Trust Corporation": {
+      "Shares": "24,859,476",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.36%",
+      "Value": "2,729,446,121"
+    },
+    "Norges Bank Investment Management": {
+      "Shares": "21,471,340",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "1.17%",
+      "Value": "2,357,445,735"
+    },
+    "Bank Of New York Mellon Corporation": {
+      "Shares": "20,015,354",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "1.09%",
+      "Value": "2,197,585,755"
+    }
+  },
+  {
+    "stock_name": "NVIDIA Corporation (NVDA)",
+    "% of Shares Held by All Insider": "4.05%",
+    "% of Shares Held by Institutions": "68.55%",
+    "% of Float Held by Institutions": "71.45%",
+    "Number of Institutions Holding Shares": "4,992",
+    "Vanguard Group Inc": {
+      "Shares": "203,680,199",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "8.25%",
+      "Value": "146,070,477,987"
+    },
+    "Blackrock Inc.": {
+      "Shares": "179,720,414",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "7.28%",
+      "Value": "128,887,574,275"
+    },
+    "FMR, LLC": {
+      "Shares": "129,017,848",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "5.22%",
+      "Value": "92,525,924,556"
+    },
+    "State Street Corporation": {
+      "Shares": "88,686,291",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "3.59%",
+      "Value": "63,601,906,228"
+    },
+    "Price (T.Rowe) Associates Inc": {
+      "Shares": "53,262,975",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.16%",
+      "Value": "38,197,862,411"
+    },
+    "Geode Capital Management, LLC": {
+      "Shares": "48,513,118",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.96%",
+      "Value": "34,791,473,936"
+    },
+    "JP Morgan Chase & Company": {
+      "Shares": "36,613,581",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "1.48%",
+      "Value": "26,257,649,510"
+    },
+    "Morgan Stanley": {
+      "Shares": "32,704,840",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.32%",
+      "Value": "23,454,472,426"
+    },
+    "Norges Bank Investment Management": {
+      "Shares": "29,494,708",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "1.19%",
+      "Value": "21,152,306,983"
+    },
+    "Northern Trust Corporation": {
+      "Shares": "26,311,434",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.07%",
+      "Value": "18,869,402,915"
+    }
+  },
+  {
+    "stock_name": "Microsoft Corporation (MSFT)",
+    "% of Shares Held by All Insider": "0.06%",
+    "% of Shares Held by Institutions": "73.14%",
+    "% of Float Held by Institutions": "73.18%",
+    "Number of Institutions Holding Shares": "6,570",
+    "Vanguard Group Inc": {
+      "Shares": "649,207,002",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "8.74%",
+      "Value": "263,130,088,395"
+    },
+    "Blackrock Inc.": {
+      "Shares": "533,634,606",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "7.18%",
+      "Value": "216,287,440,855"
+    },
+    "State Street Corporation": {
+      "Shares": "288,457,142",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "3.88%",
+      "Value": "116,914,563,519"
+    },
+    "FMR, LLC": {
+      "Shares": "215,874,152",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.91%",
+      "Value": "87,495,952,020"
+    },
+    "Geode Capital Management, LLC": {
+      "Shares": "151,218,886",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.04%",
+      "Value": "61,290,526,315"
+    },
+    "Price (T.Rowe) Associates Inc": {
+      "Shares": "151,921,031",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.04%",
+      "Value": "61,575,112,703"
+    },
+    "JP Morgan Chase & Company": {
+      "Shares": "124,050,575",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "1.67%",
+      "Value": "50,278,938,250"
+    },
+    "Morgan Stanley": {
+      "Shares": "123,130,465",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.66%",
+      "Value": "49,906,008,468"
+    },
+    "Norges Bank Investment Management": {
+      "Shares": "95,521,879",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "1.29%",
+      "Value": "38,715,972,544"
+    },
+    "Capital World Investors": {
+      "Shares": "88,620,338",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.19%",
+      "Value": "35,918,708,978"
+    }
+  },
+  {
+    "stock_name": "Meta Platforms, Inc. (META)",
+    "% of Shares Held by All Insider": "0.18%",
+    "% of Shares Held by Institutions": "79.05%",
+    "% of Float Held by Institutions": "79.19%",
+    "Number of Institutions Holding Shares": "4,555",
+    "Vanguard Group Inc": {
+      "Shares": "183,244,796",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "8.33%",
+      "Value": "84,447,448,236"
+    },
+    "Blackrock Inc.": {
+      "Shares": "155,965,211",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "7.09%",
+      "Value": "71,875,787,853"
+    },
+    "FMR, LLC": {
+      "Shares": "130,809,908",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "5.95%",
+      "Value": "60,283,092,211"
+    },
+    "State Street Corporation": {
+      "Shares": "86,053,863",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "3.91%",
+      "Value": "39,657,492,599"
+    },
+    "JP Morgan Chase & Company": {
+      "Shares": "49,077,756",
+      "Date Reported": "Dec 30, 2023",
+      "% Out": "2.23%",
+      "Value": "22,617,238,523"
+    },
+    "Price (T.Rowe) Associates Inc": {
+      "Shares": "48,579,042",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.21%",
+      "Value": "22,387,408,669"
+    },
+    "Geode Capital Management, LLC": {
+      "Shares": "45,197,719",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "2.05%",
+      "Value": "20,829,142,867"
+    },
+    "Capital World Investors": {
+      "Shares": "37,127,022",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.69%",
+      "Value": "17,109,802,498"
+    },
+    "Morgan Stanley": {
+      "Shares": "36,277,772",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.65%",
+      "Value": "16,718,429,881"
+    },
+    "Capital International Investors": {
+      "Shares": "33,654,751",
+      "Date Reported": "Sep 29, 2023",
+      "% Out": "1.53%",
+      "Value": "15,509,623,765"
+    }
+  }
+]

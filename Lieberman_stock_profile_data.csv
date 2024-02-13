@@ -1,0 +1,51 @@
+stock_name,address,key_executives
+"Tesla, Inc. (TSLA)","1 Tesla Road
+Austin, TX 78725
+United States
+512 516 8177
+https://www.tesla.com","{'Mr. Elon R. Musk': 'Technoking of Tesla, CEO & Director', 'Mr. Andrew D. Baglino': 'Senior Vice President of Powertrain & Energy Engineering', 'Mr. Vaibhav  Taneja': 'CFO, Corporate Controller & Chief Accounting Officer', 'Mr. Martin  Viecha': 'Senior Director for Investor Relations', 'Brian  Scelfo': 'Senior Director of Corporate Development', 'Mr. Jeffrey Brian Straubel': 'Independent Director', 'Mr. Franz  von Holzhausen': 'Chief Designer', 'Mr. Xiaotong  Zhu': 'Senior Vice President of Automotive', 'Mr. John  Walker': 'Vice President of Sales - North America', 'Mr. Peter  Bannon': 'Chip Architect'}"
+Apple Inc. (AAPL),"One Apple Park Way
+Cupertino, CA 95014
+United States
+408 996 1010
+https://www.apple.com","{'Mr. Timothy D. Cook': 'CEO & Director', 'Mr. Luca  Maestri': 'CFO & Senior VP', 'Mr. Jeffrey E. Williams': 'Chief Operating Officer', 'Ms. Katherine L. Adams': 'Senior VP, General Counsel & Secretary', ""Ms. Deirdre  O'Brien"": 'Senior Vice President of Retail', 'Mr. Chris  Kondo': 'Senior Director of Corporate Accounting', 'Mr. James  Wilson': 'Chief Technology Officer', 'Suhasini  Chandramouli': 'Director of Investor Relations', 'Mr. Greg  Joswiak': 'Senior Vice President of Worldwide Marketing', 'Mr. Adrian  Perica': 'Head of Corporate Development'}"
+"Netflix, Inc. (NFLX)","121 Albright Way
+Los Gatos, CA 95032
+United States
+(408) 540-3700
+https://www.netflix.com","{'Mr. Wilmot Reed Hastings Jr.': 'Co-Founder & Executive Chairman', 'Mr. Theodore A. Sarandos': 'Co-CEO & Director', 'Mr. Gregory K. Peters': 'Co-CEO, President & Director', 'Mr. Spencer Adam Neumann': 'Chief Financial Officer', 'Mr. David  Hyman': 'Chief Legal Officer & Secretary', 'Ms. Rachel  Whetstone': 'Chief Communications Officer', 'Mr. Jeffrey William Karbowski': 'VP, Chief Accounting Officer & Principal Accounting Officer', 'Ms. Elizabeth  Stone': 'Chief Technology Officer', 'Mr. Spencer  Wang': 'Vice President of Finance, Corporate Development & Investor Relations', 'Ms. Shweta  Poojari': 'Head of Communications'}"
+"Amazon.com, Inc. (AMZN)","410 Terry Avenue North
+Seattle, WA 98109-5210
+United States
+206 266 1000
+https://www.aboutamazon.com","{'Mr. Jeffrey P. Bezos': 'Founder & Executive Chairman', 'Mr. Andrew R. Jassy': 'President, CEO & Director', 'Mr. Brian T. Olsavsky': 'Senior VP & CFO', 'Mr. David A. Zapolsky': 'Senior VP of Global Public Policy & General Counsel', 'Mr. Douglas J. Herrington': 'Chief Executive Officer of Worldwide Amazon Stores', 'Mr. Adam N. Selipsky': 'Chief Executive Officer of Amazon Web Services, Inc.', 'Ms. Shelley L. Reynolds': 'VP, Worldwide Controller & Principal Accounting Officer', 'Dr. Werner  Vogels': 'Chief Technology Officer', 'Mr. Dave  Fildes': 'Director of Investor Relations', 'Ms. Anuradha  Aggarwal': 'CMO & Director of User Growth'}"
+Alphabet Inc. (GOOGL),"1600 Amphitheatre Parkway
+Mountain View, CA 94043
+United States
+650 253 0000
+https://abc.xyz","{'Mr. Sundar  Pichai': 'CEO & Director', 'Ms. Ruth M. Porat': 'President, Chief Investment Officer, Senior VP & CFO', 'Mr. Lawrence Edward Page': 'Co-Founder & Director', 'Mr. Sergey  Brin': 'Co-Founder & Director', 'Mr. J. Kent Walker': 'President of Global Affairs, Chief Legal Officer & Company Secretary', 'Dr. Prabhakar  Raghavan': 'Senior Vice President of Knowledge and Information - Google', 'Mr. Philipp  Schindler': 'Senior Vice President & Chief Business Officer of Google', ""Ms. Amie Thuener O'Toole"": 'Chief Accounting Officer & VP', 'Ms. Ellen  West': 'Vice President of Investor Relations', 'Ms. Fiona Clare Cicconi': 'Chief People Officer'}"
+"PayPal Holdings, Inc. (PYPL)","2211 North First Street
+San Jose, CA 95131
+United States
+408 967 1000
+https://www.paypal.com","{'Mr. Jonathan Saul Auerbach': 'Adviser', 'Mr. Aaron  Karczmer': 'Executive VP & Chief Enterprise Services Officer', 'Mr. James Alexander Chriss': 'President, CEO & Director', 'Ms. Jamie S. Miller': 'Executive VP & CFO', 'Ms. Archana  Deskus': 'Executive VP & CTO', 'Mr. Bimal  Patel': 'Senior VP & General Counsel', 'Mr. Diego  Scotti': 'Executive VP, GM of Consumer Group and Global Marketing & Communications', 'Mr. Kausik  Rajgopal': 'Executive Vice President of Strategy, Corporate Development & Partnerships', 'Ms. Isabel  Cruz': 'Executive VP & Chief People Officer', 'Mr. Frank  Keller': 'Senior VP and GM of Large Enterprise & Merchant Platform Group'}"
+The Walt Disney Company (DIS),"500 South Buena Vista Street
+Burbank, CA 91521
+United States
+818 560 1000
+https://www.thewaltdisneycompany.com","{'Mr. Robert A. Iger': 'CEO & Director', 'Mr. Horacio E. Gutierrez': 'Senior EVP, Chief Compliance Officer & General Counsel', 'Ms. Kristina K. Schake': 'Senior EVP & Chief Communications Officer', 'Ms. Sonia L. Coleman': 'Senior EVP & Chief Human Resources Officer', 'Mr. Hugh F. Johnston': 'Senior EVP & CFO', 'Mr. Carlos A. Gomez': 'Executive Vice President of Corporate Finance & Treasurer', 'Ms. Alexia Skouras Quadrani': 'Executive Vice President of Investor Relations', 'Mr. Ronald L. Iden': 'Senior VP & Chief Security Officer', 'Mr. Brent A. Woodford': 'Executive Vice President of Controllership, Financial Planning & Tax', 'Mr. Mahesh  Samat': 'Executive Vice President of Disney Consumer Products Commercialization for the Asia Pacific region'}"
+NVIDIA Corporation (NVDA),"2788 San Tomas Expressway
+Santa Clara, CA 95051
+United States
+408 486 2000
+https://www.nvidia.com","{'Mr. Jen-Hsun  Huang': 'Co-Founder, CEO, President & Director', 'Ms. Colette M. Kress': 'Executive VP & CFO', 'Ms. Debora  Shoquist': 'Executive Vice President of Operations', 'Mr. Timothy S. Teter': 'Executive VP, General Counsel & Secretary', 'Mr. Ajay K. Puri': 'Executive Vice President of Worldwide Field Operations', 'Mr. Chris A. Malachowsky': 'Co-Founder', 'Mr. Donald F. Robertson Jr.': 'VP & Chief Accounting Officer', 'Prof. William J. Dally': 'Chief Scientist & Senior VP of Research', 'Ms. Simona  Jankowski C.F.A., J.D.': 'Vice President of Investor Relations', 'Mr. Robert  Sherbin': 'Vice President of Corporate Communications'}"
+Microsoft Corporation (MSFT),"One Microsoft Way
+Redmond, WA 98052-6399
+United States
+425 882 8080
+https://www.microsoft.com","{'Mr. Satya  Nadella': 'Chairman & CEO', 'Mr. Bradford L. Smith LCA': 'President & Vice Chairman', 'Ms. Amy E. Hood': 'Executive VP & CFO', 'Mr. Judson B. Althoff': 'Executive VP & Chief Commercial Officer', 'Mr. Christopher David Young': 'Executive Vice President of Business Development, Strategy & Ventures', 'Ms. Alice L. Jolla': 'Corporate VP & Chief Accounting Officer', 'Mr. James Kevin Scott': 'Executive VP of AI & CTO', 'Brett  Iversen': 'Vice President of Investor Relations', 'Mr. Hossein  Nowbar': 'Chief Legal Officer', 'Mr. Frank X. Shaw': 'Chief Communications Officer'}"
+"Meta Platforms, Inc. (META)","1 Meta Way
+Menlo Park, CA 94025
+United States
+650 543 4800
+https://investor.fb.com","{'Mr. Mark Elliot Zuckerberg': 'Founder, Chairman & CEO', 'Ms. Susan J. S. Li': 'Chief Financial Officer', 'Mr. Javier  Olivan': 'Chief Operating Officer', 'Mr. Andrew  Bosworth': 'Chief Technology Officer', 'Mr. Christopher K. Cox': 'Chief Product Officer', 'Mr. David M. Wehner': 'Chief Strategy Officer', 'Mr. Aaron A. Anderson': 'Chief Accounting Officer', 'Mr. Atish  Banerjea': 'Chief Information Officer', 'Ms. Deborah T. Crawford': 'Vice President of Investor Relations', 'Ms. Jennifer G. Newstead': 'Chief Legal Officer'}"
